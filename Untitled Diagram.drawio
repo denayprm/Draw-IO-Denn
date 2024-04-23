@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T04:07:33.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y6OCzKTpsC3SADV7cHMb" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T04:10:50.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NKMv0yN36QZlS8ruiTKE" version="24.2.7" type="github">
   <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
     <mxGraphModel dx="1985" dy="3293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="700" y="40" width="120" height="110" as="geometry" />
+          <mxGeometry x="673" y="40" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-63" value="" style="group" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-62">
           <mxGeometry width="120" height="110" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry x="1.8799999999999955" y="31.72" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="701" y="199" width="120" height="110" as="geometry" />
+          <mxGeometry x="675" y="199" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-87" value="" style="group" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-86">
           <mxGeometry width="120" height="110" as="geometry" />
@@ -288,7 +288,7 @@
           <mxGeometry x="1.8799999999999955" y="31.72" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-94" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="611" y="360" width="120" height="110" as="geometry" />
+          <mxGeometry x="676" y="360" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-95" value="" style="group" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-94">
           <mxGeometry width="120" height="110" as="geometry" />
@@ -341,7 +341,7 @@
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-110" value="Design Antar Muka Pengguna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-109">
           <mxGeometry x="0.1262" y="1" relative="1" as="geometry">
-            <mxPoint x="-24" y="-10" as="offset" />
+            <mxPoint x="-14" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-111" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-109">
@@ -664,7 +664,7 @@
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-217" value="Pembuatan Struktur Organisasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-216">
           <mxGeometry x="0.1262" y="1" relative="1" as="geometry">
-            <mxPoint x="105" y="97" as="offset" />
+            <mxPoint x="100" y="97" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vZlfEXrCbTeppOrJPky9-218" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="vZlfEXrCbTeppOrJPky9-216">
